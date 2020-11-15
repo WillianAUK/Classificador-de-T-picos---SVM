@@ -1,0 +1,2 @@
+# Classificador-de-T-picos---SVM
+Um notebook alguns dos conceitos de aprendizagem supervisionada e de classificação. Foi usado de classificação multi-classe e suporte a classificadores de maquinas de vetores. O objetivo do algoritmo é procurar um limite de decisão para separar dados de classes diferentes. O algoritmo foi implementado com scikit-learn para resolver o problema de de classificação de tópicos de grupos de noticias.
